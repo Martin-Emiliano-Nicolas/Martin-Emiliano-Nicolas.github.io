@@ -1,0 +1,22 @@
+body{
+    background-image: url(Imagenes/fondo6.jpg)
+}
+h3{
+    background-color: tan;
+    border-radius: 15px;
+    font-weight: 20px ;
+    text-align: center;
+    margin-top: 10px;
+  
+}
+#main-header .item{
+    width: 30%;
+}
+#nav-tab{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+nav-tabContent{
+    align-items: center;
+}
